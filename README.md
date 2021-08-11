@@ -11,5 +11,5 @@ python3 generate_submit_files.py \
 - The python_scripts folder contains as follows
     - output_submit_files - *submit files will be stored in this which are converted.*
     - python_scripts      - *generate_submit_files.py, generate_submit_files.py, ht_condor_specific_library.py 
-                      (generate_submit_files.py and ht_condor_specific_library.py will be include soon)*
+                            (ht_condor_specific_library.py will be include soon)*
     - tests               - *a.test b.test (sample test cases)*
