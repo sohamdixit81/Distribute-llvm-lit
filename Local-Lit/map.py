@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
 	# create directories in destination
 	llvm_project = destinationPath_ + "/" + "llvm-project"
-	build = llvm_project + "/" + "build"
+	build =  destinationPath_ + "/" + "build_llvm_clang"
 
 	#llvm = destinationPath_ + "/" + "llvm-project" + "/" + "llvm"
 	#pathlib.Path(llvm_project).mkdir(parents=True, exist_ok=True)	# llvm-project
