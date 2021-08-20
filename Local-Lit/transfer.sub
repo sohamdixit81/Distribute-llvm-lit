@@ -1,0 +1,9 @@
+executable                     = /home/soham/scripts/finaltransfer/location.py
+transfer_input_files           = /home/soham/scripts/finaltransfer/output
+output                         = new1_output.txt
+error                          = new1_errors.txt
+should_transfer_files          = YES
+when_to_transfer_output        = ON_EXIT
+log                            = new1.log
+queue
+
