@@ -5,6 +5,7 @@
 | **Github** | [@sohamdixit81](http://github.com/sohamdixit81)  |
 | **Organisation**  | [LLVM](https://llvm.org/)  |
 | **Project** | [Distributed lit testing](https://summerofcode.withgoogle.com/projects/#5185044001325056) | 
+| **Mentor**  | [James Henderson](https://www.snsystems.com/technology/tech-blog/?author=40)  |
 
 # What is done
 - #### The [python_scripts](https://github.com/sohamdixit81/Distribute-llvm-lit/tree/master/python_scripts) folder contains
